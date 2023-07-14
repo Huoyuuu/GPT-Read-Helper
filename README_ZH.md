@@ -4,10 +4,10 @@
 
 ## 使用示例：
 
-#### [chatgpt-mirai-qq-bot 项目](https://github.com/lss233/chatgpt-mirai-qq-bot/)
-![31~KJGI@_9U2_OIOQC4MJ9V.png](https://s2.loli.net/2023/07/15/lpe954kwRimj3Gt.png)
-#### [teenytinycompiler 项目](https://github.com/AZHenley/teenytinycompiler)
-![M9Q_B_@_4CN___V2IPMXXDV.png](https://s2.loli.net/2023/07/15/dhRoe64iSgkP29W.png)
+### [chatgpt-mirai-qq-bot Project](https://github.com/lss233/chatgpt-mirai-qq-bot/)
+<img src="https://s2.loli.net/2023/07/15/lpe954kwRimj3Gt.png" width="500">
+### [teenytinycompiler Project](https://github.com/AZHenley/teenytinycompiler)
+<img src="https://s2.loli.net/2023/07/15/dhRoe64iSgkP29W.png" width="500">
 
 ## 使用方法：
 1. 下载项目源代码到本地。
