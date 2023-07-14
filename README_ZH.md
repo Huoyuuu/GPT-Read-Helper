@@ -6,6 +6,7 @@
 
 ### [chatgpt-mirai-qq-bot Project](https://github.com/lss233/chatgpt-mirai-qq-bot/)
 <img src="https://s2.loli.net/2023/07/15/lpe954kwRimj3Gt.png" width="500">
+
 ### [teenytinycompiler Project](https://github.com/AZHenley/teenytinycompiler)
 <img src="https://s2.loli.net/2023/07/15/dhRoe64iSgkP29W.png" width="500">
 
