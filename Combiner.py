@@ -2,7 +2,7 @@ import os
 import sys
 
 def concatenate_files(root_dir, output_file):
-    with open(output_file, 'w') as outfile:
+    with open(output_file, 'w', encoding='utf-8') as outfile:
         for root, dirs, files in os.walk(root_dir):
             for file in files:
                 file_path = os.path.join(root, file)
